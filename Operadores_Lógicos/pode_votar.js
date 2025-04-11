@@ -5,5 +5,3 @@ if (idade >=16 && idade <=70){
 }else{
     console.log("a idade está incorreta" + "😕");
 }
-//maria eduarda
-//04/04-08:29

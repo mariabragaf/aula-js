@@ -6,5 +6,3 @@ if (num1 && num2 > 0){
 }else{
     console.log("ambos não são positivos" + "😐")
 }
-//maria eduarda
-//04/04-08:17
